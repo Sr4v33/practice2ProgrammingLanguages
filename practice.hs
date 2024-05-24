@@ -158,4 +158,3 @@ cicloPrincipal parqueadero = do
         _ -> do
             putStrLn "Opción no válida. Por favor, seleccione una opción válida."
             cicloPrincipal parqueadero
-git 
